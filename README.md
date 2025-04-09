@@ -1,21 +1,16 @@
-# 🧠 bloc_event_debouncer
+# bloc_event_debouncer
 
-A tiny utility package for Flutter BLoC that helps you **debounce** or **throttle** BLoC events like a boss — because not all user inputs need to go full send.  
-Built for performance, cleanliness, and developer sanity. ⚡️
+A new Flutter project.
 
----
+## Getting Started
 
-## ✨ Features
+This project is a starting point for a Flutter application.
 
-- ✅ `debounce()` — ignore rapid-fire events, keep only the last
-- ✅ `throttle()` — fire only once per time window, ignore the rest
-- 🎯 Simple BLoC-friendly `EventTransformer<T>`s
-- 💡 Clean UX for inputs, sliders, scrolls, and more
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 🚀 Installation
-
-```yaml
-dependencies:
-  bloc_event_debouncer: ^0.0.1
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
